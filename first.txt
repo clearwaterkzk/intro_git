@@ -5,6 +5,6 @@ Gitの練習をしていきます
 
 ・git add 
 ・git commit 
-・git push 
+・git remove 
 
 変更
